@@ -2,6 +2,7 @@
 
 name: GitHub Actions Maven Build Example
 
+
 on:
   push:
     branches: [ master ]
